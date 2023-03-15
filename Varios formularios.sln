@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varios formularios", "Varios formularios\Varios formularios.csproj", "{BDC505D0-A55A-47F3-A6C6-C97D8CB69316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC505D0-A55A-47F3-A6C6-C97D8CB69316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC505D0-A55A-47F3-A6C6-C97D8CB69316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC505D0-A55A-47F3-A6C6-C97D8CB69316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC505D0-A55A-47F3-A6C6-C97D8CB69316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F598458-FF34-4328-B2D5-D779D9ADF2E0}
+	EndGlobalSection
+EndGlobal
